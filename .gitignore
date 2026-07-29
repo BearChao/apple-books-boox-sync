@@ -1,0 +1,8 @@
+state/
+config.json
+__pycache__/
+*.pyc
+.ruff_cache/
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,7 @@
+{
+  "collections": null,
+  "exclude_collections": [],
+  "boox_books_dir": "/sdcard/Books",
+  "match_threshold": 0.8,
+  "require_collection_for_every_book": false
+}
